@@ -1,4 +1,4 @@
-<img alt="miss" src="IMG/xz.JPG" width="300px" >
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,6 +6,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<img alt="miss" src="IMG/xz.jpg" width="300px" >
 <form>
 <input type="text" value="wangyibo"></input>
 <input type="password">
