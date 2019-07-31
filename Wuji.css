@@ -1,1 +1,23 @@
+@charset "UTF-8";
+wangyibo{
+background-color:black;
+font-size:60px;
+color:red;
+font-family:宋体 ;
 
+}
+xiaozhan{
+background-color:black;
+font-size:60px;
+color:red;
+font-family:宋体 ;
+
+}
+
+td{
+background-color:red;
+font-size:60px;
+}
+.i{
+background-color:yellow;
+}
